@@ -1,0 +1,154 @@
+[
+  {
+    "id": 45068,
+    "name": "Fuaxiao Chuanqi",
+    "russian": "",
+    "image": {
+      "original": "/system/animes/original/45068.jpg?1701409109",
+      "preview": "/system/animes/preview/45068.jpg?1701409109",
+      "x96": "/system/animes/x96/45068.jpg?1701409109",
+      "x48": "/system/animes/x48/45068.jpg?1701409109"
+    },
+    "url": "/animes/45068-fuaxiao-chuanqi",
+    "kind": "movie",
+    "score": "0.0",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 0,
+    "aired_on": "2018-01-04",
+    "released_on": null
+  },
+  {
+    "id": 29235,
+    "name": "Ninja Hattori-kun Plus Perman: Chounouryoku Wars",
+    "russian": "Ниндзя Хаттори + Супермалыш: Сверхъестественные войны",
+    "image": {
+      "original": "/system/animes/original/29235.jpg?1701429887",
+      "preview": "/system/animes/preview/29235.jpg?1701429887",
+      "x96": "/system/animes/x96/29235.jpg?1701429887",
+      "x48": "/system/animes/x48/29235.jpg?1701429887"
+    },
+    "url": "/animes/29235-ninja-hattori-kun-plus-perman-chounouryoku-wars",
+    "kind": "movie",
+    "score": "6.01",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 0,
+    "aired_on": "1984-03-17",
+    "released_on": null
+  },
+  {
+    "id": 4536,
+    "name": "Muteki Robo Trider G7",
+    "russian": "Непобедимый робот Трайдер Джи-7",
+    "image": {
+      "original": "/system/animes/original/4536.jpg?1701428195",
+      "preview": "/system/animes/preview/4536.jpg?1701428195",
+      "x96": "/system/animes/x96/4536.jpg?1701428195",
+      "x48": "/system/animes/x48/4536.jpg?1701428195"
+    },
+    "url": "/animes/4536-muteki-robo-trider-g7",
+    "kind": "tv",
+    "score": "6.5",
+    "status": "released",
+    "episodes": 50,
+    "episodes_aired": 0,
+    "aired_on": "1980-02-02",
+    "released_on": "1981-01-03"
+  },
+  {
+    "id": 3067,
+    "name": "Saraba Uchuu Senkan Yamato: Ai no Senshi-tachi",
+    "russian": "Прощай, космический линкор Ямато: Воины любви",
+    "image": {
+      "original": "/system/animes/original/3067.jpg?1701437612",
+      "preview": "/system/animes/preview/3067.jpg?1701437612",
+      "x96": "/system/animes/x96/3067.jpg?1701437612",
+      "x48": "/system/animes/x48/3067.jpg?1701437612"
+    },
+    "url": "/animes/3067-saraba-uchuu-senkan-yamato-ai-no-senshi-tachi",
+    "kind": "movie",
+    "score": "7.09",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 0,
+    "aired_on": "1978-08-05",
+    "released_on": null
+  },
+  {
+    "id": 10581,
+    "name": "Kidou Senshi Gundam 0083: Stardust Memory - Uchuu no Kagerou",
+    "russian": "Мобильный воин Гандам 0083: Память о Звёздной пыли — Космическая бабочка",
+    "image": {
+      "original": "/system/animes/original/10581.jpg?1701420191",
+      "preview": "/system/animes/preview/10581.jpg?1701420191",
+      "x96": "/system/animes/x96/10581.jpg?1701420191",
+      "x48": "/system/animes/x48/10581.jpg?1701420191"
+    },
+    "url": "/animes/10581-kidou-senshi-gundam-0083-stardust-memory-uchuu-no-kagerou",
+    "kind": "special",
+    "score": "5.93",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 1,
+    "aired_on": "1992-01-01",
+    "released_on": null
+  },
+  {
+    "id": 2786,
+    "name": "Bakegyamon",
+    "russian": "Бакэгямон",
+    "image": {
+      "original": "/system/animes/original/2786.jpg?1701399738",
+      "preview": "/system/animes/preview/2786.jpg?1701399738",
+      "x96": "/system/animes/x96/2786.jpg?1701399738",
+      "x48": "/system/animes/x48/2786.jpg?1701399738"
+    },
+    "url": "/animes/z2786-bakegyamon",
+    "kind": "tv",
+    "score": "6.59",
+    "status": "released",
+    "episodes": 51,
+    "episodes_aired": 0,
+    "aired_on": "2006-04-03",
+    "released_on": "2007-03-26"
+  },
+  {
+    "id": 12907,
+    "name": "Sekiei Ayakashi Mangatan",
+    "russian": "Сэкиэй, который рисует демонов",
+    "image": {
+      "original": "/system/animes/original/12907.jpg?1701438092",
+      "preview": "/system/animes/preview/12907.jpg?1701438092",
+      "x96": "/system/animes/x96/12907.jpg?1701438092",
+      "x48": "/system/animes/x48/12907.jpg?1701438092"
+    },
+    "url": "/animes/12907-sekiei-ayakashi-mangatan",
+    "kind": "ona",
+    "score": "5.69",
+    "status": "released",
+    "episodes": 3,
+    "episodes_aired": 1,
+    "aired_on": "2012-02-02",
+    "released_on": "2012-03-01"
+  },
+  {
+    "id": 52807,
+    "name": "One Punch Man 3",
+    "russian": "Ванпанчмен 3",
+    "image": {
+      "original": "/system/animes/original/52807.jpg?1698813967",
+      "preview": "/system/animes/preview/52807.jpg?1698813967",
+      "x96": "/system/animes/x96/52807.jpg?1698813967",
+      "x48": "/system/animes/x48/52807.jpg?1698813967"
+    },
+    "url": "/animes/52807-one-punch-man-3",
+    "kind": "tv",
+    "score": "0.0",
+    "status": "anons",
+    "episodes": 0,
+    "episodes_aired": 0,
+    "aired_on": null,
+    "released_on": null
+  }
+]
